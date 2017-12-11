@@ -1,7 +1,7 @@
 return {
-	bot_api_key = 'توکن شما',
-	admin = 207418094,186514905,131020409,
-	channel = '@Sudo_Tm', --channel username with the '@'
+	bot_api_key = 470033543:AAHljj4xcKuqY35aO0UetrKIRtfHq79fO0s ,
+	admin = 499857538,
+	channel = '@Gharibam_Channel', --channel username with the '@'
 
 	plugins = {
 		'start.lua','contactus.lua',
