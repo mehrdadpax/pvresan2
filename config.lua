@@ -1,5 +1,5 @@
 return {
-	bot_api_key = 470033543:AAHljj4xcKuqY35aO0UetrKIRtfHq79fO0s ,
+	bot_api_key = 491762596:AAF_6u7sc-dHOmi56mwfHr1gxvCY4uPs5lM ,
 	admin = 499857538,
 	channel = '@Gharibam_Channel', --channel username with the '@'
 
